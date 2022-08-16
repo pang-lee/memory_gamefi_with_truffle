@@ -12,7 +12,7 @@ Here is som e snapshot of this application
 
 ![未命名2](https://user-images.githubusercontent.com/13313753/184829652-e49d1f4c-0e29-4fed-90cf-df437053a009.png)
 
-##### The develop process of this applictaion  
+### The develop process of this applictaion  
 If you want to run this application, you need to download and install Ganache and node first  
 After you download you need to run truffle migrate --reset to reset the whole smart contract  
 And run npm run start to start react application  
