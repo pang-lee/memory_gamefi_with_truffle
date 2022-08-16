@@ -1,4 +1,4 @@
-# memory_gamefi_with_truffle
+# Memory_gamefi_with_truffle
 
 It is a blockchain game which made by truffle framework  
 And the whole asset is follow the course of https://www.youtube.com/watch?v=x-6ruqmNS3o&t=4696s  
