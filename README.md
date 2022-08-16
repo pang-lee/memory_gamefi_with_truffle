@@ -3,7 +3,7 @@
 It is a blockchain game which made by truffle framework  
 And the whole asset is follow the course of https://www.youtube.com/watch?v=x-6ruqmNS3o&t=4696s  
 It youtube have a lot of DAPP tutorial.  
-If you want to build awesome DAPP remember to follow this channel https://www.youtube.com/c/DappUniversity  
+If you want to build awesome DAPP, follow this channel https://www.youtube.com/c/DappUniversity  
 
 Here is som e snapshot of this application  
 
